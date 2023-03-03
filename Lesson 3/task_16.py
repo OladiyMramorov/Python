@@ -7,6 +7,7 @@
 #3
 #-> 1
 
+
 from random import randint
 array = [randint(1, 9) for i in range(int(input('Введите размер массива: ')))]
 print(array)

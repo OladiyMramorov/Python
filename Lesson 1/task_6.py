@@ -6,6 +6,7 @@
 #385916 -> yes
 #123456 -> no
 
+
 num = input('Введите номер билета: ')
 l = int(num[0]) + int(num[1]) + int(num[2])
 r = int(num[3]) + int(num[4]) + int(num[5])
